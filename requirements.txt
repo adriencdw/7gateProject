@@ -2,4 +2,4 @@ Flask
 numpy
 Keras
 pillow
-tensorflow
+tensorflow==2.1
