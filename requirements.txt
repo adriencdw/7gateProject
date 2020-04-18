@@ -1,6 +1,5 @@
 Flask
 numpy
 Keras
-gevent
 pillow
 tensorflow
